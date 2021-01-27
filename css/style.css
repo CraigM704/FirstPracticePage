@@ -1,7 +1,14 @@
-* {
-    background-color: aqua;
-    text-align: center;
-}
+
 h1 {
-    font-size: 150;
+    font-size: 100;
+}
+.header {
+    text-align: center;
+    background-image: url("/media/tesla_model-3-performace-silver.jpg");
+    color: blue;
+    padding: 5em;
+    font-family: cursive;
+}
+body {
+    background-color: cornflowerblue;
 }
