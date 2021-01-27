@@ -4,8 +4,8 @@ h1 {
 }
 .header {
     text-align: center;
-    background-image: url("/media/tesla_model-3-performace-silver.jpg");
-    color: blue;
+    background-image: url("/media/crypto-image.jpg");
+    color: rgb(0, 255, 42);
     padding: 5em;
     font-family: cursive;
 }
