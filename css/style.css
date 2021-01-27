@@ -6,8 +6,8 @@ h1 {
     text-align: center;
     background-image: url("/media/crypto-image.jpg");
     color: rgb(0, 255, 42);
-    padding: 5em;
-    font-family: cursive;
+    padding: 2em;
+    font-family: 'Times New Roman', Times, serif;
 }
 body {
     background-color: cornflowerblue;
